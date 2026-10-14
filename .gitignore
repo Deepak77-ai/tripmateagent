@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+my_env/
+env/
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/
+*.log
+*.db
+*.sqlite
+*.sqlite3
+.pytest_cache/
+.mypy_cache/
